@@ -1,6 +1,6 @@
 ![Mod logo](/src/main/resources/logo.png)
 
-CameraCTRL aims to ease camera settings setup for Minecraft machinimeers.
+CameraCTRL is a Minecraft mod that tweaks the game to make life of video makers easier.
 
 ## How to use it?
 The mod features 2 major tweaks, the first one allows you to save a camera profile which can be enabled and disabled with a keybind:
@@ -16,10 +16,14 @@ The second tweak is the addition of the `/loc` command:
 * `/loc go <name>` teleports you to the specified location
 * `/loc list` prints all the saved locations
 
-The config files are generated in the `.minecraft/config/CameraCTRL/` directory.
-
 ## Is this mod useful?
 Clearly not for everybody. I may plan on extending it to save even more settings in the future, however for the usage it is meant to be used, this would be useless. I got bored of always changing plenty of settings to just switch to a camera shoulder-like shot when I am recording machinimas, so I binded it all to one key.
 
 ## Do I need it on my server?
 Yes. This mod **does need** to be installed on the server if you use one.
+
+## Config
+The config files are generated in the `.minecraft/config/CameraCTRL/` directory.
+* `camera.cfg` contains the saved camera profile mouse sensitivity and FOV values
+* `old.cfg` contains the mouse sensitivity and FOV values you had before activating your camera profile
+* `locations.cfg` contains the names and coordinates of your saved locations
