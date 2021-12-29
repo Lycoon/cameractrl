@@ -1,6 +1,8 @@
 ![Mod logo](/src/main/resources/logo.png)
 
-CameraCTRL is a Minecraft mod that tweaks the game to make life of video makers easier.
+<p align="center">
+  <b>CameraCTRL</b> is a Minecraft mod that tweaks the game to make life of video makers easier
+</p>
 
 ## How to use it?
 The mod features 2 major tweaks, the first one allows you to save a camera profile which can be enabled and disabled with a keybind:
